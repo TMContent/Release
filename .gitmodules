@@ -1,3 +1,39 @@
 [submodule "Lib_HTML5"]
 	path = Lib_HTML5
 	url = git@github.com:TMContent/Lib_HTML5.git
+[submodule "Lib_.NET_3.5"]
+	path = Lib_.NET_3.5
+	url = git@github.com:TMContent/Lib_.NET_3.5.git
+[submodule "Lib_.NET_2.0"]
+	path = Lib_.NET_2.0
+	url = git@github.com:TMContent/Lib_.NET_2.0.git
+[submodule "Lib_Scala"]
+	path = Lib_Scala
+	url = git@github.com:TMContent/Lib_Scala.git
+[submodule "Lib_PCI_DSS_Compliance"]
+	path = Lib_PCI_DSS_Compliance
+	url = git@github.com:TMContent/Lib_PCI_DSS_Compliance.git
+[submodule "Lib_Android"]
+	path = Lib_Android
+	url = git@github.com:TMContent/Lib_Android.git
+[submodule "Lib_iOS"]
+	path = Lib_iOS
+	url = git@github.com:TMContent/Lib_iOS.git
+[submodule "Lib_CWE"]
+	path = Lib_CWE
+	url = git@github.com:TMContent/Lib_CWE.git
+[submodule "Lib_PHP"]
+	path = Lib_PHP
+	url = git@github.com:TMContent/Lib_PHP.git
+[submodule "Lib_.NET_4.0"]
+	path = Lib_.NET_4.0
+	url = git@github.com:TMContent/Lib_.NET_4.0.git
+[submodule "Lib_CPP"]
+	path = Lib_CPP
+	url = git@github.com:TMContent/Lib_CPP.git
+[submodule "Lib_Java"]
+	path = Lib_Java
+	url = git@github.com:TMContent/Lib_Java.git
+[submodule "Lib_Vulnerabilities"]
+	path = Lib_Vulnerabilities
+	url = git@github.com:TMContent/Lib_Vulnerabilities.git
